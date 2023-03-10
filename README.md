@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geoffembuscad0
-- 👀 I’m interested in learning continuously.
-- 🌱 I’m currently learning on how to make a cross platform app using Flutter.
-- 💞️ I’m looking to collaborate on working multiple Angular Projects.
+- 🧪 I’m interested in learning Data-Security & Artificial Intelligence.
+- 🤳 I’m currently learning on how to make a cross-platform application using Flutter.
+- 🤝 I look forward to collaborate to work in Angular Projects or Laravel Projects.
 - 📫 You can E-mail me at geoffreyembuscado.work@gmail.com.
 
 <!---
