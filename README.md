@@ -99,8 +99,8 @@ A modular achievement system that rewards users based on behavior and milestones
 
 ## 📫 Connect
 
-- GitHub: `github.com/your-username`
-- LinkedIn: `linkedin.com/in/your-profile`
+- GitHub: `github.com/geoffembuscad0`
+- Google: `geoffreyembuscado.work@gmail.com`
 
 ---
 
