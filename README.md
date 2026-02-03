@@ -1,10 +1,107 @@
-- 👋 Hi, I’m @geoffembuscad0
-- 🧪 I’m interested in learning Data-Security & Artificial Intelligence.
-- 🤳 I’m currently learning on how to make a cross-platform application using Flutter.
-- 🤝 I look forward to learn & collaborate with Angular Projects.
-- 📫 You can E-mail me at geoffreyembuscado.work@gmail.com.
+# 👋 Hi, I’m Geoff
 
-<!---
-geoffembuscad0/geoffembuscad0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a full-stack web developer specializing in **Laravel 11**, focused on building **production-ready**, **maintainable**, and **scalable** web applications.
+
+Most of my work revolves around backend-driven systems with clean architecture, clear data flow, and practical user-facing features.
+
+---
+
+## 🧰 Core Tech Stack
+
+**Backend**
+- Laravel 11
+- PHP 8.2+
+- MySQL
+- RESTful APIs
+- Laravel Queues & Jobs
+- Laravel Caching
+
+**Frontend**
+- Blade
+- AlpineJS
+- Tailwind CSS
+
+**Dev & Infrastructure**
+- Git & GitHub
+- Docker (basic usage)
+- AWS (deployment & services)
+- Linux-based environments
+
+---
+
+## 🚀 What I Build
+
+- Authentication & authorization systems
+- CRUD-based admin panels and dashboards
+- Gamified user systems (points, levels, leaderboards)
+- Data-driven reports and analytics
+- API endpoints for machine-to-server communication
+- Real-world production features with performance considerations
+
+---
+
+## 🧩 Notable Projects
+
+### ♻️ Smart Eco-Collection Platform
+A web application that tracks eco-bin transactions and converts them into user points for real-life rewards.
+
+**Key Features**
+- Transaction tracking from smart machines
+- User point accumulation & leaderboards
+- Reward redemption system
+- Admin dashboards & reports
+- Caching for performance optimization
+
+**Tech Used**
+- Laravel 11
+- MySQL
+- AlpineJS
+- Tailwind CSS
+- AWS
+
+---
+
+### 📊 Gamification & Achievement System
+A modular achievement system that rewards users based on behavior and milestones.
+
+**Highlights**
+- Dynamic achievement evaluation
+- Point-based progression
+- Extensible service-based architecture
+- User achievement tracking
+
+**Tech Used**
+- Laravel Services
+- Eloquent Relationships
+- Caching Strategies
+
+---
+
+## 🛠️ Development Focus
+
+- Clean MVC architecture
+- Readable and maintainable code
+- Proper separation of concerns
+- Scalable data models
+- Performance-aware queries
+- Practical Laravel best practices
+
+---
+
+## 📌 Currently Exploring
+
+- Advanced Laravel service patterns
+- Real-time communication strategies
+- System optimization & caching
+- API design for machine integrations
+
+---
+
+## 📫 Connect
+
+- GitHub: `github.com/your-username`
+- LinkedIn: `linkedin.com/in/your-profile`
+
+---
+
+> Building systems that work in the real world.
