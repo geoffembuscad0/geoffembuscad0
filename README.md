@@ -44,6 +44,7 @@ Most of my work revolves around backend-driven systems with clean architecture, 
 
 ### ♻️ Smart Eco-Collection Platform
 A web application that tracks eco-bin transactions and converts them into user points for real-life rewards.
+[Link: https://ecobin.posmworks.com]
 
 **Key Features**
 - Transaction tracking from smart machines
