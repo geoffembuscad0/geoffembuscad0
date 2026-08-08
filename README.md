@@ -23,7 +23,6 @@ Most of my work revolves around backend-driven systems with clean architecture, 
 
 **Dev & Infrastructure**
 - Git & GitHub
-- Docker (basic usage)
 - AWS (deployment & services)
 - Linux-based environments
 
