@@ -15,9 +15,12 @@ Most of my work revolves around backend-driven systems with clean architecture, 
 - RESTful APIs
 - Laravel Queues & Jobs
 - Laravel Caching
+- Supabase
 
 **Frontend**
 - Blade
+- Flutter
+- Angular
 - AlpineJS
 - Tailwind CSS
 
