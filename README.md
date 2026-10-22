@@ -1,110 +1,34 @@
-# 👋 Hi, I’m Geoff
+# Hi, I'm Geoff!
 
-I’m a full-stack web developer specializing in **Laravel 11**, focused on building **production-ready**, **maintainable**, and **scalable** web applications.
+I'm a Web Developer who enjoys building practical applications,
+exploring new technologies, and continuously improving my craft.
 
-Most of my work revolves around backend-driven systems with clean architecture, clear data flow, and practical user-facing features.
+My work and personal projects reflect my interest in web development,
+application architecture, and learning by building.
 
----
+### What I'm Working With
 
-## 🧰 Core Tech Stack
+- **Backend:** PHP, Laravel
+- **Frontend:** HTML, CSS, JavaScript
+- **Mobile & Cross-Platform:** Flutter, Dart
+- **Database:** MySQL, Supabase
+- **Tools:** Git, GitHub, Linux
 
-**Backend**
-- Laravel 11
-- PHP 8.2+
-- MySQL
-- RESTful APIs
-- Laravel Queues & Jobs
-- Laravel Caching
-- Supabase
+### Current Projects
 
-**Frontend**
-- Blade
-- Flutter
-- Angular
-- AlpineJS
-- Tailwind CSS
+- **Laravel Local Bookstore** — A Laravel-based e-commerce
+  application focused on online book sales.
+- **Flutter Pokedex** — A Flutter learning project focused on
+  browsing and searching Pokémon.
 
-**Dev & Infrastructure**
-- Git & GitHub
-- AWS (deployment & services)
-- Linux-based environments
+### My Approach
 
----
+I believe the best way to learn software development is to build
+things, solve problems, and keep improving through practice.
 
-## 🚀 What I Build
+I'm always exploring better ways to write code, structure
+applications, and turn ideas into working software.
 
-- Authentication & authorization systems
-- CRUD-based admin panels and dashboards
-- Gamified user systems (points, levels, leaderboards)
-- Data-driven reports and analytics
-- API endpoints for machine-to-server communication
-- Real-world production features with performance considerations
+### Connect with Me
 
----
-
-## 🧩 Notable Projects
-
-### ♻️ Smart Eco-Collection Platform
-A web application that tracks eco-bin transactions and converts them into user points for real-life rewards.
-[Link: https://ecobin.posmworks.com]
-
-**Key Features**
-- Transaction tracking from smart machines
-- User point accumulation & leaderboards
-- Reward redemption system
-- Admin dashboards & reports
-- Caching for performance optimization
-
-**Tech Used**
-- Laravel 11
-- MySQL
-- AlpineJS
-- Tailwind CSS
-- AWS
-
----
-
-### 📊 Gamification & Achievement System
-A modular achievement system that rewards users based on behavior and milestones.
-
-**Highlights**
-- Dynamic achievement evaluation
-- Point-based progression
-- Extensible service-based architecture
-- User achievement tracking
-
-**Tech Used**
-- Laravel Services
-- Eloquent Relationships
-- Caching Strategies
-
----
-
-## 🛠️ Development Focus
-
-- Clean MVC architecture
-- Readable and maintainable code
-- Proper separation of concerns
-- Scalable data models
-- Performance-aware queries
-- Practical Laravel best practices
-
----
-
-## 📌 Currently Exploring
-
-- Advanced Laravel service patterns
-- Real-time communication strategies
-- System optimization & caching
-- API design for machine integrations
-
----
-
-## 📫 Connect
-
-- GitHub: `github.com/geoffembuscad0`
-- Google: `geoffreyembuscado.work@gmail.com`
-
----
-
-> Building systems that work in the real world.
+- GitHub: [@geoffembuscad0](https://github.com/geoffembuscad0)
