@@ -103,7 +103,7 @@ applications, and turn ideas into working software.
 
 ## 📈 GitHub Streak
 
-[![Geoff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geoffembuscad0&theme=tokyo-night)](https://github.com/geoffembuscad0)
+![Metrics](https://github.com/yourusername/yourusername/blob/main/github-metrics.svg)
 
 ---
 
