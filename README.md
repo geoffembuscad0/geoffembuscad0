@@ -101,12 +101,6 @@ applications, and turn ideas into working software.
 
 ---
 
-## 📈 GitHub Streak
-
-![Metrics](https://github.com/yourusername/yourusername/blob/main/github-metrics.svg)
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
