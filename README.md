@@ -101,9 +101,9 @@ applications, and turn ideas into working software.
 
 ---
 
-## 📊 GitHub Streak
+## 📈 GitHub Streak
 
-![Geoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geoffembuscad0&show_icons=true&theme=tokyonight)
+![snake gif](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
