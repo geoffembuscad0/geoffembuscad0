@@ -103,7 +103,7 @@ applications, and turn ideas into working software.
 
 ## 📈 GitHub Streak
 
-![snake gif](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
+[![Geoff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geoffembuscad0&theme=tokyo-night)](https://github.com/geoffembuscad0)
 
 ---
 
