@@ -101,6 +101,12 @@ applications, and turn ideas into working software.
 
 ---
 
+## 📊 GitHub Streak
+
+![Geoff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geoffembuscad0&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
