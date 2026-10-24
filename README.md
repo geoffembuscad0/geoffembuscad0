@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Geoff Embuscado
+Name: Geoffrey Embuscado
 Role: Web Developer
 Focus:
   - Application Development
@@ -96,16 +96,6 @@ applications, and turn ideas into working software.
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geoffembuscad0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffembuscad0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌌 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geoffembuscad0&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
 
 </div>
 
