@@ -85,8 +85,8 @@ React SPA with authentication flow, protected routes, and state management.
 ### 📬 Connect
 
 - **GitHub:** [@geoffembuscad0](https://github.com/geoffembuscad0)
-- **Email:** [your email]
-- **LinkedIn:** [your LinkedIn]
+- **Email:** [geoffreyembuscado.work@gmail.com]
+
 
 ---
 
