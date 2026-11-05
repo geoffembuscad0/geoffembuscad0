@@ -50,21 +50,21 @@ and compete on sustainability leaderboards.
 
 ### 📌 Featured Repositories
 
-**[Metro-manila-bookstore](https://github.com/geoffembuscad0/Metro-manila-bookstore)**
+**[metro-manila-bookstore](https://github.com/geoffembuscad0/metro-manila-bookstore)**
 Full-stack Laravel bookstore MVP — customer storefront with cart & COD
 checkout, admin catalog management, and inventory tracking with
 purchase-order receiving and stock-movement history.
 
-**[Tumbang-preso-flutter](https://github.com/geoffembuscad0/Tumbang-preso-flutter)**
+**[tumbang-preso-flutter](https://github.com/geoffembuscad0/tumbang-preso-flutter)**
 Cross-platform Flutter game with a fixed-timestep game loop, sprite
 animation, and collision detection — no game engine. Recreates a
 traditional Filipino street game.
 
-**[Ionic7-Auth-Notes](https://github.com/geoffembuscad0/Ionic7-Auth-Notes)**
+**[ionic7-auth-notes](https://github.com/geoffembuscad0/ionic7-auth-notes)**
 Ionic 7 + Angular notes app with Supabase auth (login, register, logout),
 route guards, and full CRUD dashboard.
 
-**[React-Auth-Notes](https://github.com/geoffembuscad0/React-Auth-Notes)**
+**[react-auth-notes](https://github.com/geoffembuscad0/react-auth-notes)**
 React SPA with authentication flow, protected routes, and state management.
 
 ---
