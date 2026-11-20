@@ -28,7 +28,7 @@ Admin Dashboards
 **Currently Learning**
 React · FastAPI · AI-assisted development workflows
 
-**[View my e-certificates and credentials](https://github.com/yourusername/certificates)**
+**[View my e-certificates and credentials](https://github.com/geoffembuscad0/geoffrey-embuscado-credentials)**
 
 ---
 
