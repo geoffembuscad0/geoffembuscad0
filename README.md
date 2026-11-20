@@ -28,6 +28,8 @@ Admin Dashboards
 **Currently Learning**
 React · FastAPI · AI-assisted development workflows
 
+**[View my e-certificates and credentials](https://github.com/yourusername/certificates)**
+
 ---
 
 ### 🚀 Featured Production Project
