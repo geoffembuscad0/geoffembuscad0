@@ -63,12 +63,15 @@ animation, and collision detection — no game engine. Recreates a
 traditional Filipino street game.
 
 **[litebooks](https://github.com/geoffembuscad0/litebooks)**
-Core accounting foundation complete; purchasing MVP complete; sales, expenses, 
-and payments remain the main missing MVP workflows.
+LiteBooks is a multi-company inventory and accounting management system for small businesses. 
+Built with React, TypeScript, Vite, FastAPI, PostgreSQL, and Supabase, it combines product and 
+stock management, weighted-average inventory costing, purchase workflows, double-entry accounting, 
+and financial reports.
 
 **[ionic7-auth-notes](https://github.com/geoffembuscad0/ionic7-auth-notes)**
-Ionic 7 + Angular notes app with Supabase auth (login, register, logout),
-route guards, and full CRUD dashboard.
+Ionic 7 Auth Notes is a note-taking application built with Angular, Ionic Framework, and Supabase. 
+It provides secure user authentication and lets users create, organize, edit, and manage private 
+notes through a responsive, cross-platform interface.
 
 ---
 
