@@ -10,20 +10,24 @@ Based in the Philippines 🇵🇭
 
 ### 🛠️ Technical Skills
 
+**Core**
+Laravel 11/12 · Angular · Flutter (Dart)
+
 **Backend & Architecture**
-PHP · Laravel 11/12 (Service Classes, API Resources) · RESTful APIs ·
-Node.js · Supabase · RBAC Security · System Design
+PHP · RESTful APIs · Service Classes · API Resources ·
+RBAC Security · System Design · Node.js · Supabase
 
 **Frontend & Mobile**
-Angular · Ionic · Flutter (Dart) · Livewire 3 · Alpine.js · Vue ·
+Ionic · Livewire 3 · Alpine.js · Vue ·
 Tailwind CSS · TypeScript · JavaScript
 
 **Databases & DevOps**
-MySQL · MS SQL Server · NoSQL · Linux (Ubuntu) · Git · CI/CD
+MySQL · MS SQL Server · PostgreSQL · NoSQL ·
+Linux (Ubuntu) · Git · CI/CD
 
 **Domain Focus**
-Gamification Engines · Rewards & Voucher Systems · IoT Web Platforms ·
-Admin Dashboards
+Gamification Engines · Rewards & Voucher Systems ·
+IoT Web Platforms · Admin Dashboards
 
 **Currently Learning**
 React · FastAPI · AI-assisted development workflows
@@ -96,5 +100,4 @@ notes through a responsive, cross-platform interface.
 
 ---
 
-*Open to full-stack and backend roles. Happy to discuss architecture,
-tradeoffs, and what I'd do differently.*
+*Open to full-stack and backend roles — especially Laravel + Angular / Flutter, rewards systems, inventory/accounting, and admin platforms. Happy to walk through architecture, tradeoffs, and what I'd do differently.*
