@@ -62,12 +62,13 @@ Cross-platform Flutter game with a fixed-timestep game loop, sprite
 animation, and collision detection — no game engine. Recreates a
 traditional Filipino street game.
 
+**[litebooks](https://github.com/geoffembuscad0/litebooks)**
+Core accounting foundation complete; purchasing MVP complete; sales, expenses, 
+and payments remain the main missing MVP workflows.
+
 **[ionic7-auth-notes](https://github.com/geoffembuscad0/ionic7-auth-notes)**
 Ionic 7 + Angular notes app with Supabase auth (login, register, logout),
 route guards, and full CRUD dashboard.
-
-**[react-auth-notes](https://github.com/geoffembuscad0/react-auth-notes)**
-React SPA with authentication flow, protected routes, and state management.
 
 ---
 
