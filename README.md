@@ -1,6 +1,6 @@
 # Geoffrey Embuscado
 
-**Full-Stack Developer** — Laravel · Angular · Ionic · Flutter
+**Full-Stack Developer** — Laravel · Angular · React · Ionic · Flutter
 
 I build production web and cross-platform applications, focused on backend
 architecture, role-based systems, and real-world apps used by actual users.
@@ -18,7 +18,7 @@ PHP · RESTful APIs · Service Classes · API Resources ·
 RBAC Security · System Design · Node.js · Supabase
 
 **Frontend & Mobile**
-Ionic · Livewire 3 · Alpine.js · Vue ·
+Ionic · Livewire 3 · Alpine.js · Vue · React · 
 Tailwind CSS · TypeScript · JavaScript
 
 **Databases & DevOps**
