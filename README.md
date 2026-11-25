@@ -67,7 +67,7 @@ Full-stack Laravel bookstore MVP — customer storefront with cart & COD checkou
 Cross-platform Flutter game with a fixed-timestep game loop, sprite animation, and collision detection — no game engine. Recreates a traditional Filipino street game.
 
 **[ionic-angular-calcboard-duo](https://github.com/geoffembuscad0/ionic-angular-calcboard-duo)**
-Dual-panel calculator board built with Ionic + Angular. [Add 1 line here: what the duo mode does + 1 standout feature, ex. history, themes, or offline use.]
+Dual-pane calculator built with Ionic + Angular. Left pane is a working calculator, right pane is a scratch pad for notes and intermediate calculations — built for larger screens, like a professor solving algebra while sketching formulas.
 
 ---
 
