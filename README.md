@@ -56,26 +56,18 @@ and compete on sustainability leaderboards.
 
 ### 📌 Featured Repositories
 
+**[litebooks](https://github.com/geoffembuscad0/litebooks)**
+Multi-company inventory and accounting system for small businesses.
+React, TypeScript, Vite, FastAPI, PostgreSQL, Supabase — with weighted-average costing, purchase workflows, double-entry accounting, and financial reports.
+
 **[metro-manila-bookstore](https://github.com/geoffembuscad0/metro-manila-bookstore)**
-Full-stack Laravel bookstore MVP — customer storefront with cart & COD
-checkout, admin catalog management, and inventory tracking with
-purchase-order receiving and stock-movement history.
+Full-stack Laravel bookstore MVP — customer storefront with cart & COD checkout, admin catalog management, and inventory tracking with purchase-order receiving and stock-movement history.
 
 **[tumbang-preso-flutter](https://github.com/geoffembuscad0/tumbang-preso-flutter)**
-Cross-platform Flutter game with a fixed-timestep game loop, sprite
-animation, and collision detection — no game engine. Recreates a
-traditional Filipino street game.
+Cross-platform Flutter game with a fixed-timestep game loop, sprite animation, and collision detection — no game engine. Recreates a traditional Filipino street game.
 
-**[litebooks](https://github.com/geoffembuscad0/litebooks)**
-LiteBooks is a multi-company inventory and accounting management system for small businesses. 
-Built with React, TypeScript, Vite, FastAPI, PostgreSQL, and Supabase, it combines product and 
-stock management, weighted-average inventory costing, purchase workflows, double-entry accounting, 
-and financial reports.
-
-**[ionic7-auth-notes](https://github.com/geoffembuscad0/ionic7-auth-notes)**
-Ionic 7 Auth Notes is a note-taking application built with Angular, Ionic Framework, and Supabase. 
-It provides secure user authentication and lets users create, organize, edit, and manage private 
-notes through a responsive, cross-platform interface.
+**[ionic-angular-calcboard-duo](https://github.com/geoffembuscad0/ionic-angular-calcboard-duo)**
+Dual-panel calculator board built with Ionic + Angular. [Add 1 line here: what the duo mode does + 1 standout feature, ex. history, themes, or offline use.]
 
 ---
 
